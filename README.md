@@ -5,8 +5,8 @@ This repository contains the scripts, meta data files used in the manuscripts:  
 ## Dependencies
 
 - python(2/3)
-- R
-- 
+- R(v4.0.3)
+
 
 ## Scripts
 
