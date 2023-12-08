@@ -1,24 +1,23 @@
 # HSPC_omics
 
-This repository contains the scripts, meta data files used in the manuscripts:  **Epigenetic fate determinants of human hematopoietic stem and progenitor cells revealed by single-cell multi-omics analysis**.
+This repository contains the scripts, metadata files used in the manuscripts:  **Epigenetic fate determinants of human hematopoietic stem and progenitor cells revealed by single-cell multi-omics analysis**.
 
 ## Dependencies
 
 - python(2/3)
-- R
-- 
+- R(v4.0.3)
 
 ## Scripts
 
-Scripts and snakemake files for the reproduce figures and analysis.
+Scripts and snakemake files for the reproduced figures and analysis.
 
-#### Transcriptome_cluster.R
+#### Transcriptome_cluster.py
 
 Single-cell RNA-seq data dimensionality reduction and clustering.
 
-#### DMR_identification.R
+#### DMR_calling.R
 
-Differential methylated region identify.
+Differentially methylated region identify.
 
 #### 5mc_DR.R
 
