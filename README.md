@@ -1,6 +1,6 @@
 # HSPC_omics
 
-This repository contains the scripts, metadata files used in the manuscripts:  **Epigenetic fate determinants of human hematopoietic stem and progenitor cells revealed by single-cell multi-omics analysis**.
+This repository contains the scripts, metadata files used in the manuscripts:  **Epigenetic fate determinants of human hematopoietic stem/progenitor cells at single-cell resolution**.
 
 ## Dependencies
 
